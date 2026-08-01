@@ -1,0 +1,27 @@
+# Palm
+
+> Palm is an AI cash flow forecasting platform for treasury teams. It forecasts liquidity from your transaction data, models scenarios, runs continuous variance analysis, and produces board-ready reporting.
+
+Palm connects to your banks and ERP, learns the timing and size of your recurring cash flows from historical transactions, and keeps a rolling forecast (13-week and longer) current automatically. It is built for corporate treasury and finance teams.
+
+## Product
+
+- [Meet Palm](https://www.usepalm.com/meet-palm): Overview of the platform.
+- [Forecasting](https://www.usepalm.com/forecasting): AI cash flow forecasting that learns from your data.
+- [Scenarios](https://www.usepalm.com/scenarios): Model what-if liquidity scenarios on your live forecast.
+- [Variance analysis](https://www.usepalm.com/variance-analysis): Forecast vs. actual, by category, every cycle.
+- [Investments](https://www.usepalm.com/investments): Identify genuinely surplus cash and invest with confidence.
+- [Positioning](https://www.usepalm.com/positioning): Automated daily cash position across banks and currencies.
+- [Reporting](https://www.usepalm.com/reporting): Board-ready treasury reporting.
+- [Pulse](https://www.usepalm.com/pulse): Anomaly detection and alerts on cash and forecast.
+
+## Resources
+
+- [Blog](https://www.usepalm.com/blog): Treasury insights and cash flow forecasting know-how.
+- [Glossary](https://www.usepalm.com/glossary): Treasury and cash management terms, explained.
+
+## Company
+
+- [About](https://www.usepalm.com/about): Palm's mission and approach.
+- [Security](https://www.usepalm.com/security): How Palm protects financial data.
+- [Contact](https://www.usepalm.com/contact-us): Get in touch or book a demo.

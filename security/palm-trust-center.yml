@@ -1,0 +1,20 @@
+generated: '2026-07-20'
+method: searched
+probe: false
+source: https://www.usepalm.com/security
+url: https://www.usepalm.com/security
+certifications:
+- SOC 2 Type II
+- GDPR
+notes: >-
+  Palm publishes a Security page stating it is SOC 2 Type II certified (AICPA
+  Trust Services Criteria for Security) and GDPR compliant. The platform runs on
+  Google Cloud Platform with encrypted backups, role-based access controls, and
+  documented approval workflows. No dedicated trust.usepalm.com portal, ISO
+  27001, PCI DSS, or HIPAA certification was found.
+evidence:
+- source: https://www.usepalm.com/security
+  keywords:
+  - soc 2 type ii
+  - gdpr
+  - trust services criteria

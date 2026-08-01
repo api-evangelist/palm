@@ -1,7 +1,20 @@
 aid: palm
 name: Palm
-description: Palm is a company surfaced as a portfolio company of speedinvest and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: >-
+  Palm is an AI cash flow forecasting platform for corporate treasury and finance
+  teams. It sits above existing Treasury Management Systems (TMS) and ERPs,
+  unifying visibility across cash positions and forecasting liquidity directly
+  from bank and transaction data. Palm learns the timing and size of recurring
+  cash flows from historical transactions to keep a rolling 13-week-and-longer
+  forecast current automatically, and combines ERP data, bank transactions, and
+  25+ AI models to improve forecast accuracy by over 60%. The product spans AI
+  cash forecasting, what-if scenario modeling, continuous forecast-vs-actual
+  variance analysis, automated daily cash positioning across banks and
+  currencies, surplus-cash investment identification, board-ready treasury
+  reporting, and a "Pulse" anomaly-detection assistant. Palm is a speedinvest
+  portfolio company. It integrates with TMS (Coupa, FIS, ION, Kyriba), banks
+  (Citi, HSBC, J.P. Morgan), investment platforms, data warehouses, and ERPs
+  (SAP, IFS), but does not publish a public developer API.
 url: https://raw.githubusercontent.com/api-evangelist/palm/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,14 +22,64 @@ x-backed-by:
 - speedinvest
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
+image: https://www.usepalm.com/opengraph-image?a2ac428887ff7627
 tags:
 - Company
+- Fintech
+- Treasury
+- Cash Flow Forecasting
+- Cash Management
+- Liquidity
+- Finance
+- Artificial Intelligence
+- Corporate Finance
 apis: []
+common:
+- type: DomainSecurity
+  url: security/palm-domain-security.yml
+- type: Website
+  url: https://www.usepalm.com
+- type: About
+  url: https://www.usepalm.com/about
+- type: Integrations
+  url: https://www.usepalm.com/integrations
+- type: Blog
+  url: https://www.usepalm.com/blog
+- type: Support
+  url: https://www.usepalm.com/contact-us
+- type: Security
+  url: https://www.usepalm.com/security
+- type: Compliance
+  url: https://www.usepalm.com/security
+- type: TrustCenter
+  url: security/palm-trust-center.yml
+- type: PrivacyPolicy
+  url: https://www.usepalm.com/privacy-policy
+- type: TermsOfService
+  url: https://www.usepalm.com/terms
+- type: LLMsTxt
+  url: llms/palm-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: enriched
+  artifacts_added: 3
+  pass: local-v1
